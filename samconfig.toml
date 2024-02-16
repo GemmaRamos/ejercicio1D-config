@@ -8,5 +8,6 @@ region = "us-east-1"
 capabilities = "CAPABILITY_IAM"
 parameter_overrides = "Stage=\"staging\""
 confirm_changeset = false
+force_upload = true
 image_repositories = []
 
